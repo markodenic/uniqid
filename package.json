@@ -1,0 +1,22 @@
+{
+  "name": "@mdenic/uniqid",
+  "version": "0.1.0",
+  "description": "A super simple unique id based on timestamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markoDenic/uniqid.git"
+  },
+  "keywords": [
+    "uniqid"
+  ],
+  "author": "Marko Denic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markoDenic/uniqid/issues"
+  },
+  "homepage": "https://github.com/markoDenic/uniqid#readme"
+}

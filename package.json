@@ -1,6 +1,6 @@
 {
   "name": "@mdenic/uniqid",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A super simple unique id based on timestamp.",
   "main": "index.js",
   "scripts": {

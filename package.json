@@ -1,7 +1,7 @@
 {
   "name": "@mdenic/uniqid",
-  "version": "0.2.0",
-  "description": "A super simple unique id based on timestamp.",
+  "version": "0.2.1",
+  "description": "A super simple unique id based on the current timestamp in milliseconds.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

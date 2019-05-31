@@ -1,4 +1,4 @@
-module.exports = module.exports.default  = function (){
+module.exports = module.exports.default  = function (prefix, suffix) {
     var time = Date.now();
-    return time.toString();
+    return (prefix || '') + time.toString() + (suffix || '');
 };

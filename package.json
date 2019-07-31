@@ -1,6 +1,6 @@
 {
   "name": "@mdenic/uniqid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A super simple, lightning fast unique id based on the current timestamp in milliseconds, with optional prefix and suffix.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/markoDenic/uniqid/issues"
   },
-  "homepage": "https://github.com/markoDenic/uniqid#readme"
+  "homepage": "https://uniqid.netlify.com/"
 }

@@ -33,3 +33,12 @@ uniqid('hello-', '-world');
 //=> "hello-1558604880081-world" //string
 
 ```
+
+
+### Options
+
+
+|            Name          |                  Type                       | Default Value |
+|--------------------------|---------------------------------------------|---------------|
+| prefix                   | String                                      |       ''      |
+| suffix                   | String                                      |       ''      |
